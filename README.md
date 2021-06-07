@@ -1,3 +1,3 @@
 # basic-bootstrap-page
 
-This is a sample boostrap page.
+This is a sample bootstrap page.
