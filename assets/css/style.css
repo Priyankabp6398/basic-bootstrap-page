@@ -116,47 +116,48 @@ footer {
   
   
   /* Facebook */
-  .fa-facebook {
+  /* .fa-facebook {
     border-radius: 50%;
     width: 10px;
     font-size:x-small;
     background: #3B5998;
     color: white;
-  }
+  } */
   
   /* Twitter */
-  .fa-twitter {
+  /* .fa-twitter {
     font-size: xx-large;
     border-radius: 50%;
     width: 10px;
     font-size:x-small;
     background: #55ACEE;
     color: white;
-  }  
+  }   */
   
-  .fa-google-plus{
+  /* .fa-google-plus{
     border-radius: 50%;
     width: 10px;
     font-size:x-small;
     background:red;
     color: white;
   }
-  
-  .fa-dribbble{
+   */
+  /* .fa-dribbble{
     border-radius: 50%;
     width: 40px;
     font-size:x-small;
     background:rgb(202, 19, 50);
     color: white;
-  }
+  } */
 
-  .fa-pinterest{
+  /* .fa-pinterest{
     border-radius: 50%;
     width: 10px;
     font-size:x-small;
     background:rgb(61, 4, 4);
     color: white;
-  }
+  } */
+  
   .span3{
     padding: 0px 0px 0px 50px;
   }
@@ -170,7 +171,7 @@ footer {
   }
 
 #lay{
-  padding: 0px 0px 0px 400px;
+  padding: 0px 0px 0px 700px;
 }
 
 .btn-primary{
@@ -179,5 +180,59 @@ footer {
 
 
 .fa-briefcase{
-  padding: 20px 0px 0px 150px;
+  padding: 10px 0px 0px 80px;
+  transform:scale(2);
+  color: orangered;
 }
+
+.fa-laptop{
+  padding: 10px 0px 0px 80px;
+  transform:scale(2);
+  color: orangered;
+}
+
+.fa-flask{
+  padding: 10px 0px 0px 90px;
+  transform:scale(2);
+  color: orangered;
+}
+
+.fa-coffee{
+  padding: 10px 0px 0px 90px;
+  transform:scale(2);
+  color: orangered;
+}
+
+.card {
+   border:5px solid orangered;
+   background: lightblue; 
+  }
+
+.card-body{
+    color: white;
+  }
+  .card--body:hover {
+    color: black;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -ms-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    margin-top: 30px;
+    transform:skew(100);
+    color: orangered;
+    max-zoom:unset;
+    transform:scale(0.9);
+  }
+
+  .Learn{
+    padding: 0px 0px 0px 90px;
+    color: orangered;
+  }
+
+  .primary{
+    margin-left: 200px;
+    border-style: solid;
+    border-radius: 15px;
+    font-size: 25px;
+  }
