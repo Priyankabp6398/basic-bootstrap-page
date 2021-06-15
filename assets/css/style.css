@@ -116,12 +116,9 @@ footer {
     width: 50px;
     text-align: center;
     text-decoration: none;
-    
   } 
 
   
-
-
   /* Add a hover effect if you want */
   .fa:hover {
     opacity: 0.9;

@@ -81,3 +81,39 @@ li a:hover{
 #web{
   color: orangered;
 }
+.primary{
+  border-style:solid;
+  border-radius: 20px;
+  margin: 0 0 0 250px;
+}
+#divtag{
+  margin:0 0 0 50px;
+}
+/* card group */
+#icons{
+  margin: auto;
+  color: orangered;
+  
+  
+}
+#icons:hover {
+  opacity: 0.9;
+  color: orangered;
+  color: black;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -ms-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+    margin-top: 30px;
+    transform:skew(100);
+    color: orangered;
+    max-zoom:unset;
+    transform:scale(0.9);
+  
+}
+
+/* footer */
+#footer{
+  background-color: black;
+}
